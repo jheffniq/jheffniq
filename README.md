@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱  I’m currently learning Full Stack Javascript<br>🤖  I'm interested in what you're interested<br>![Spotify]([https://www.svgrepo.com/show/475684/spotify-color.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/spotify-icon.png))
+🌱  I’m currently learning Full Stack Javascript<br>🤖  I'm interested in what you're interested<br><br>[![Spotify](https://img.shields.io/badge/Rock%20music%20is%20the%20best%20best%20music%20for%20programming-1DB954)](https://open.spotify.com/playlist/63o15hdoLYJDtP5izdOA6C?si=61b019ebdd7b4dde)<br>
+[![Steam](https://img.shields.io/badge/Play%20games%20on%20breaks!%20Add%20me%20on%20Steam-1b2838)](https://steamcommunity.com/id/nicnicnicnicnicnicnicnic/)
 
 
 ## 🌐 Socials:
@@ -12,8 +13,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jheffniq&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jheffniq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<h3><i>"Some are born with talent, and some aren't. That's true. But that said... Those with talent never make it through talent alone. You have to overcome. Find boundaries, and break them. The only way to grow is by overcoming challenges."</i></h3>
+<img src='https://media1.giphy.com/media/KMDTamx3VTKXloyfui/giphy.gif?cid=ecf05e47jg2qxjrwjc3d410bch9mrsochatir2yuiovfalrs&ep=v1_gifs_related&rid=giphy.gif&ct=g' style="height: 400px;"/>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
