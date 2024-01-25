@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱  I’m currently learning Full Stack Javascript<br>🤖  I'm interested in what you're interested<br>![Spotify](https://www.svgrepo.com/show/475684/spotify-color.svg)
+🌱  I’m currently learning Full Stack Javascript<br>🤖  I'm interested in what you're interested<br>![Spotify]([https://www.svgrepo.com/show/475684/spotify-color.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/spotify-icon.png))
 
 
 ## 🌐 Socials:
