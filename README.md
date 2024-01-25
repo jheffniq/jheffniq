@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱&nbsp;I’m currently learning Full Stack Javascript<br>🤖&nbsp;I'm interested in what you're interested<br>🤘&nbsp;Rock songs are the best songs to listen to while programming&nbsp;🤘
+🌱  I’m currently learning Full Stack Javascript<br>🤖  I'm interested in what you're interested<br>![Spotify](https://www.svgrepo.com/show/475684/spotify-color.svg)
 
 
 ## 🌐 Socials:
