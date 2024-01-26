@@ -1,6 +1,6 @@
-# 💫 About Me:
-🌱  I’m currently learning Full Stack Javascript<br>🤖  I'm interested in what you're interested<br><br>[![Spotify](https://img.shields.io/badge/Rock%20music%20is%20the%20best%20best%20music%20for%20programming-1DB954)](https://open.spotify.com/playlist/63o15hdoLYJDtP5izdOA6C?si=61b019ebdd7b4dde)<br>
-[![Steam](https://img.shields.io/badge/Play%20games%20on%20breaks!%20Add%20me%20on%20Steam-1b2838)](https://steamcommunity.com/id/nicnicnicnicnicnicnicnic/)
+# 🐵 About Me:
+🌱  I’m currently learning Full Stack Javascript<br>🤖  I'm interested in what you're interested<br><br>[![Spotify](https://img.shields.io/badge/Rock%20music%20is%20the%20best%20best%20music%20for%20programming-1DB954?logo=spotify&logoColor=ffffff)](https://open.spotify.com/playlist/63o15hdoLYJDtP5izdOA6C?si=61b019ebdd7b4dde)<br>
+[![Steam](https://img.shields.io/badge/Play%20games%20on%20breaks!%20Add%20me%20on%20Steam-1b2838?logo=steam)](https://steamcommunity.com/id/nicnicnicnicnicnicnicnic/)
 
 
 ## 🌐 Socials:
@@ -15,6 +15,3 @@
 
 <h3><i>"Some are born with talent, and some aren't. That's true. But that said... Those with talent never make it through talent alone. You have to overcome. Find boundaries, and break them. The only way to grow is by overcoming challenges."</i></h3>
 <img src='https://media1.giphy.com/media/KMDTamx3VTKXloyfui/giphy.gif?cid=ecf05e47jg2qxjrwjc3d410bch9mrsochatir2yuiovfalrs&ep=v1_gifs_related&rid=giphy.gif&ct=g' style="height: 400px;"/>
-
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
